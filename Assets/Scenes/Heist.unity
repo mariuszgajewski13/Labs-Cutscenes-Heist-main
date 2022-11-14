@@ -27074,8 +27074,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961739749}
-  m_LocalRotation: {x: 0.008153511, y: 0.87393534, z: -0.014698605, w: 0.48575142}
-  m_LocalPosition: {x: -4.1354203, y: 4.6680813, z: -21.64304}
+  m_LocalRotation: {x: 0.016154528, y: 0.96343243, z: -0.05962025, w: 0.2607346}
+  m_LocalPosition: {x: 4.13423, y: 1.7859848, z: -3.9535275}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -30518,11 +30518,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CachedValues:
-  - 31.633333333333333
-  - 31.666666666666668
-  - 31.7
-  - 31.733333333333334
-  - 31.733333333333334
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
 --- !u!114 &1084937302
 MonoBehaviour:
   m_ObjectHideFlags: 0
