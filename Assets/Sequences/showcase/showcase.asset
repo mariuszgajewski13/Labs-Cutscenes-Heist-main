@@ -25,11 +25,11 @@ MonoBehaviour:
       data:
         m_Data:
         - rid: 217270741542895622
-        - rid: 217270741542895623
-        - rid: 217270741542895624
-        - rid: 217270741542895625
+        - rid: -2
+        - rid: -2
+        - rid: 1783919424338395137
         m_AvailableIndices:
-          rid: -2
+          rid: 1783919424338395136
     - rid: 217270741542895622
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
@@ -38,51 +38,25 @@ MonoBehaviour:
         m_Start: 0
         m_Duration: 4
         m_Parent: -1
-        m_Children: 010000000200000003000000
+        m_Children: 03000000
         m_Timeline: {fileID: 11400000, guid: ea2151587e264a040833bb44c793fad1, type: 2}
-        m_ChildrenTrack: {fileID: -8589954579668720077, guid: ea2151587e264a040833bb44c793fad1,
+        m_ChildrenTrack: {fileID: -3622593021746327447, guid: ea2151587e264a040833bb44c793fad1,
           type: 2}
         m_DefaultChildrenTrackName: Sequences
         m_EditorialClipAsset: {fileID: 0}
-    - rid: 217270741542895623
+    - rid: 1783919424338395136
+      type: {class: StackInt, ns: UnityEngine.Sequences, asm: Unity.Sequences}
+    - rid: 1783919424338395137
       type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
       data:
-        m_Name: buiding
+        m_Name: pan sots
         m_Fps: -1
         m_Start: 0
         m_Duration: 2
         m_Parent: 0
         m_Children: 
-        m_Timeline: {fileID: 11400000, guid: c7748e43306f1044bb83f610fe694669, type: 2}
+        m_Timeline: {fileID: 11400000, guid: cc4f715080894404ca56e592e6d27a8d, type: 2}
         m_ChildrenTrack: {fileID: 0}
         m_DefaultChildrenTrackName: Sequences
-        m_EditorialClipAsset: {fileID: -4700993359592528895, guid: ea2151587e264a040833bb44c793fad1,
-          type: 2}
-    - rid: 217270741542895624
-      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
-      data:
-        m_Name: stairs
-        m_Fps: -1
-        m_Start: 2
-        m_Duration: 2
-        m_Parent: 0
-        m_Children: 
-        m_Timeline: {fileID: 11400000, guid: 011907d44c7d5ca4fb7011a795bce914, type: 2}
-        m_ChildrenTrack: {fileID: 0}
-        m_DefaultChildrenTrackName: Sequences
-        m_EditorialClipAsset: {fileID: -4541293404930751252, guid: ea2151587e264a040833bb44c793fad1,
-          type: 2}
-    - rid: 217270741542895625
-      type: {class: TimelineSequence, ns: UnityEngine.Sequences, asm: Unity.Sequences}
-      data:
-        m_Name: vault
-        m_Fps: -1
-        m_Start: 0
-        m_Duration: 2
-        m_Parent: 0
-        m_Children: 
-        m_Timeline: {fileID: 11400000, guid: 59accb61a64ba3947be50227a117d285, type: 2}
-        m_ChildrenTrack: {fileID: 0}
-        m_DefaultChildrenTrackName: Sequences
-        m_EditorialClipAsset: {fileID: -349458201605591180, guid: ea2151587e264a040833bb44c793fad1,
+        m_EditorialClipAsset: {fileID: -7057398813079555568, guid: ea2151587e264a040833bb44c793fad1,
           type: 2}
